@@ -9,6 +9,6 @@ import bot.boobbot.models.BbApiCommand
     aliases = ["redhead", "redheads"],
     nsfw = true,
     category = Category.GENERAL,
-    donorOnly = true
+    donorOnly = false
 )
 class Red : BbApiCommand("red")
